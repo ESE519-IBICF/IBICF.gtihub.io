@@ -2,7 +2,7 @@
 # ---- General Settings --------------- #
 # ------------------------------------- #
 baseURL = "https://ese519-ibicf.github.io/IBICF.gtihub.io/"
-title = "Den"
+title = "ESE519 Final Project"
 theme = "hugo-theme-den"
 #enableRobotsTXT = true       # generate robots.txt
 enableEmoji = true           # use emoji support
