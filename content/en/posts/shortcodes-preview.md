@@ -18,8 +18,8 @@ categories: ["Demos"]
 
 
 ## Figure
+<img src={{ "images/drone.jpg" | absLangURL }}
 
-{{<figure src="/images/globe.svg" alt="Globe" align="aligncenter" width="300" caption="**Globe**">}}
 
 
 ## Highlight for Shells
