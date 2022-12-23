@@ -43,10 +43,7 @@ defaultContentLanguageInSubdir = true
 [author]                     # required
   name = "Yuxuan Li"
 
-[sitemap]                    # required
-  changefreq = "weekly"
-  priority = 0.5
-  filename = "sitemap.xml"
+
 
 # ------------------------------------- #
 # ---- Other Params ------------------- #

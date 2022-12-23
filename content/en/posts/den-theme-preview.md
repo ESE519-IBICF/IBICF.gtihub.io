@@ -8,7 +8,7 @@ categories: ["Notes"]
 authors:
 - "Yuxuan Li"
 ---
-![Drone test](/drone.jpg)
+
 # ESE519_Midterm Report
 For ESE 519 midterm report. Drone with learning.
 
@@ -32,19 +32,18 @@ For ESE 519 midterm report. Drone with learning.
   - **materials:**
     - Pico4ML Image
 
-     <img class="special-img-class" src="/static/drone.jpg" />
+        ![pico4ML](https://i.328888.xyz/2022/12/24/DtdCL.jpeg)
+
     - MiniDrone
 
-    <img width="380" alt="Drone" src="./Pico4ML.jpeg">
+        ![miniDrone](https://i.328888.xyz/2022/12/24/Dt66x.jpeg)
 
     - RP2040
     
-    <img width="300" alt="RP2040" src="media/materials/RP2040.jpeg">
+        ![RP2040](https://i.328888.xyz/2022/12/24/Dthgp.jpeg)
 
     -LSM6DS3
-
-    <img width="300" alt="RP2040" src="media/materials/LSM6DS3.png">
-
+        ![LSM6DS3](https://i.328888.xyz/2022/12/24/DtuoX.png)
 
   - **design:**
   * Self-designed drone with hacking:
@@ -55,7 +54,7 @@ For ESE 519 midterm report. Drone with learning.
 
 
  
- <img width="500" alt="circuit" src="https://user-images.githubusercontent.com/87698138/205519976-f471acd5-c7fc-46cb-b8ed-c9c0dd39164f.jpg">
+   ![self designed drone](https://i.328888.xyz/2022/12/24/Dtzba.jpeg)
   
   - **troubleshooting:**
     - How to make the fan blades turn from 0
@@ -65,12 +64,9 @@ For ESE 519 midterm report. Drone with learning.
     - video
     The demo is given as follows:  
     
-    ![Demo](media/materials/Demo.gif)
-    
-    - circuit connection
-    
-    <img width="500" alt="now" src="media/media in readme/12.3circuit.jpeg">
+    ![Demo](https://i.328888.xyz/2022/12/24/DtFQk.gif)
+
 
 - **diagram:**
  
- <img width="500" alt="now" src="media/media in readme/diagram.jpeg">
+   ![diagram](https://i.328888.xyz/2022/12/24/DtYnC.jpeg)
