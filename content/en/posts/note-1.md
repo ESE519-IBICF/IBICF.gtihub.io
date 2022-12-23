@@ -3,7 +3,6 @@ title: "Final Report"
 date:  2022-12-22T16:01:23+08:00
 lastmod:  2022-12-23T16:01:23+08:00
 draft: false
-tags: ["notes"]
 categories: ["Notes"]
 authors:
 - Yuxuan
@@ -11,7 +10,7 @@ authors:
 
 # ESE519_Final
 
-For ESE 519 Final project. balanced board controled Drone and Panel kit Camera.
+For ESE 519 Final project, balanced board controled Drone and Panel kit Camera.
 
 **TEAM - I believe I can fly:**
 

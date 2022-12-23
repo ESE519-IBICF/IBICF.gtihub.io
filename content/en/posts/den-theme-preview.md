@@ -3,7 +3,6 @@ title: "Midterm Report"
 date: 2022-12-22T16:01:23+08:00
 lastmod: 2022-12-22T16:01:23+08:00
 draft: false
-tags: ["preview", "shortcodes", "tutorial"]
 categories: ["Notes"]
 authors:
 - "Yuxuan Li"
