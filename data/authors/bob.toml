@@ -6,8 +6,5 @@ display = "Bob"
 [image]
 # url = ""
 
-[zh-tw]
-description = "自我簡介。"
-
 [en]
 description = "Self introduction."

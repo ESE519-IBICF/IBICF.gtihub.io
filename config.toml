@@ -35,15 +35,11 @@ defaultContentLanguageInSubdir = true
 
 # Links format
 [permalinks]
-  posts = "/:year/:month/:day/:slug/"
   categories = "/category/:slug/"      # required
   tags = "/tag/:slug/"                 # required
-  pages = "/:slug/"
 
 [author]                     # required
   name = "Yuxuan Li"
-
-
 
 # ------------------------------------- #
 # ---- Other Params ------------------- #
@@ -54,7 +50,7 @@ defaultContentLanguageInSubdir = true
   rssFullContent = true      # set true to use full content instead of summary
 
   # site info (optional)
-  keywords = ["Hugo", "theme","den"]
+  keywords = ["ESE519", "Team2","Fly"]
   description = "Balanced board controled drone and Panel kit Camera"
   logoTitle = "IBICF" # shown on top-left, default: title
   siteLogoImage = "images/globe.svg"     # shown besides logoTitle
@@ -101,9 +97,7 @@ defaultContentLanguageInSubdir = true
   name = "keywords"
   weight = 150
 
-[[related.indices]]
-  name = "tags"
-  weight = 100
+
 
 
 [languages.en]
@@ -117,11 +111,7 @@ defaultContentLanguageInSubdir = true
     weight = 10
     identifier = "notes"
     url = "category/notes/"
-  [[languages.en.menu.main]]
-    name = "Demos"
-    weight = 20
-    identifier = "demos"
-    url = "category/demos/"
+ 
 
   [[languages.en.menu.social]]
     name = "GitHub"
