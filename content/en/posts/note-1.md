@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=_GHgrHEjJ3k
 |GP0|BOT SERVO PWM INPUT|
 |GP1|UP SERVO PWM INPUT|
 
-##Hardware Circuit
+## Hardware Circuit
 
 Amplifier: Scale 3V to 5V
 ![Amplifier](https://i.328888.xyz/2022/12/24/DtoUv.jpeg)
@@ -277,9 +277,6 @@ After got the integer value of the pattern by applying the 'left shift' operatio
 
 
 ## File description
-
-【File_name】: What is it
-
 【README_midpoint】: Our midpoint project report.
 
 【code/IBICF/motor/pwm_new.c】: Main code for RP2040_Drone.
